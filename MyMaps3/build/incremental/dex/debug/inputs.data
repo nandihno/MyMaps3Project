@@ -1,0 +1,28 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377097750000 490 167aef98d55fdb0215d58d8c75f51f02b22671b1 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/Manifest$permission.class
+1377094178000 1268 54bdb1b557a375fddbde8b35597667bbd09ad9fc /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$styleable.class
+1377094178000 741 be491dadfc7fe972d417b3b79bf9460177db2192 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R.class
+1377094178000 621 f4a2ae95cbe38ca7c21c9792816192ec4e0f5593 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R.class
+1377094178000 888 a7a11d7675474dffdabc82565883cd1ce68ff85b /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$attr.class
+1377094178000 1045 f25030712401f1d8723ffb88266fa192bcfd6a07 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$color.class
+1377094178000 452 d6af92d28e0f7784bdb66a2709ee609f5b0f3e7b /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$dimen.class
+1377094178000 5099 e0354524c8d3bf83a1eea9e607bca50107433378 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/MainActivity.class
+1377094178000 1814 27eff9de1a5295d3f8e30a0d5f823ec5ac0f4e15 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$drawable.class
+1377094049000 370 2f9674853f107d19df7ec0b950384a2a7c9ecd88 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/Manifest.class
+1377094178000 1247 4024a8465d6dcb4114d6e0da504535ec5f96e8de /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$styleable.class
+1377094178000 1800 ad6eafac99e342ff3cd9fca89352dc108e01b618 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$drawable.class
+1377094178000 728 6ff371c41dc33f709771b7f55711bc66d9a31138 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$id.class
+1377094178000 394 7f4477e5e04b07ea7ccb8b0c6a819a85c0b9ccf6 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$layout.class
+1376225840000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
+1377094178000 1814 4c32ca55b4de0aa803400b69e535f929e6fb85a0 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$string.class
+1377094049000 339 c3ab8a3d0e94f9997e7f5157921e4f42a92681b4 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/BuildConfig.class
+1377094178000 867 2f239323b09b9e216fb0e4e159d40320450b9062 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$attr.class
+1377094178000 1729 f1a284453c0a591660496b462d4978907bc4e77d /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$string.class
+1373633923000 591443 f0d8e4a84fad131bc291c3c4850afcaa8ba0b299 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/libs/google-play-services.jar
+1377094178000 518 7faaf5717d8c53502857385057e3dcac7f7be390 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$id.class
+1377094178000 379 edc8c917be8ee60d0eedef00c07053293be45449 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$menu.class
+1377094178000 1066 a80d2deca37fb10827b40ee3aa4d203badc41a70 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/com/google/android/gms/R$color.class
+1377094178000 422 21bcfc00a0277aaf7d7877cbef84126e47c2e613 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/classes/debug/org/nando/maps3/R$style.class
+1377094171000 591443 7421dcb3ed9db47a59ec618e2398f0df65c2d480 /Users/fernandoMac/developer/java/workspace/MyMaps3Project/MyMaps3/build/exploded-bundles/ComGoogleAndroidGmsPlayServices3136.aar/classes.jar
